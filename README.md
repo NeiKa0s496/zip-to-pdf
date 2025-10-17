@@ -19,7 +19,7 @@ Convert several images from ZIP files into a single PDF document. I made it to g
 ## Installation
 - Clone the repository
 ```bash
-git clone 
+git clone https://github.com/NeiKa0s496/zip-to-pdf.git
 ```
 - Create the venv
 ```bash
