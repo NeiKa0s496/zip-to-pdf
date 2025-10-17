@@ -1,6 +1,6 @@
 
 # Zip to PDF Converter
-Convert several images from ZIP files into a single PDF document. I made it to get all my notes from photos and uplpad them faster.
+Convert several images from ZIP files into a single PDF document. I made it to get all my notes from drive in one go into a zip with photos to print.
 
 <img src="herta.gif" alt="<3" align= "left" width="30%" height="40%">
 
